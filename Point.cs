@@ -1,3 +1,10 @@
+/*
+**  AUTHOR      :   Robert James Patterson
+**  DATE        :   01/07/18
+**  FILE        :   TreehouseDefense/Point.cs
+**  SYNOPSIS    :   Team Treehouse C# Objects course work files
+**
+*/
 using System;
 
 namespace TreehouseDefense

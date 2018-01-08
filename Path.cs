@@ -1,3 +1,10 @@
+/*
+**  AUTHOR      :   Robert James Patterson
+**  DATE        :   01/07/18
+**  FILE        :   TreehouseDefense/Path.cs
+**  SYNOPSIS    :   Team Treehouse C# Objects course work files
+**
+*/
 namespace TreehouseDefense
 {
     class Path
